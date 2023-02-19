@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "title": "İlk bloğum",
+      "body": "Neden kullanırız \n bu uzun süreli kullanımın bir etkileri mi ?",
+      "author": "Furkan",
+      "id": 1
+    },
+    {
+      "title": "Açılış partisi",
+      "body": "Neden kullanırız \n bu uzun süreli kullanımın bir etkileri mi ?",
+      "author": "Tayfun",
+      "id": 2
+    },
+    {
+      "title": "Yeni blog Denemesi POST isteği.",
+      "body": "React ile post isteği yapıyorum fetch api ile...",
+      "author": "furkan",
+      "id": 3
+    },
+    {
+      "title": "isPending ile kontrol.",
+      "body": "Pending ile, post isteklerimizin anlaşılması için kondisyonel rendering kullandık.",
+      "author": "furkan",
+      "id": 4
+    },
+    {
+      "title": "Blog history.",
+      "body": "history.go(-1)  kullanımı.",
+      "author": "tayfun",
+      "id": 5
+    },
+    {
+      "title": "history.push('/')",
+      "body": "Bu redirect işlemini belirlenen yere yapıyor.",
+      "author": "furkan",
+      "id": 6
+    },
+    {
+      "title": "fetch method:'DELETE'",
+      "body": "Delete kullandık ve başarılı şekilde sildik.",
+      "author": "furkan",
+      "id": 7
+    }
+  ]
+}
