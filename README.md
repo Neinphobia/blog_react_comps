@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Yönerge
 cd data 
 
-json-server --watch db.json --port 3000
+json-server --watch db.json --port 8000
 
 cd ..
 
